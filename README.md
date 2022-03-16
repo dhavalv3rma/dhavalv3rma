@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhavalv3rma
 - 👀 I’m interested in ... web-development, CSS, PC-games, swimming & love trekking
 - 🌱 I’m currently learning ... core development in frontend technologies 
-- 💞️ I’m looking to collaborate on ... Nothing right now...
+- 💞️ I’m looking to collaborate on something that challenges me to make my brain sweat.
 - 📫 How to reach me ... can send me letters at dhavalverma@live.in 
 
 <!---
